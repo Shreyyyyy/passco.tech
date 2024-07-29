@@ -15,8 +15,8 @@
  */
 function danva_customize_register( $wp_customize ) {
 	$wp_customize->add_section( new Danva_Upsell_Section($wp_customize,'upsell_section',array(
-		'title'            => __( 'Danva Pro', 'danva' ),
-		'button_text'      => __( 'Upgrade Pro', 'danva' ),
+		'title'            => __( 'Shreyans Jain', 'Passco' ),
+		'button_text'      => __( 'Shreyans Jain', 'Passco' ),
 		'url'              => esc_url( DANVA_BUY_NOW ),
 		'priority'         => 0,
 	)));

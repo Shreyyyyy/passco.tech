@@ -1,4 +1,4 @@
-=== Danva ===
+=== Shreyans ===
 Contributors: Real Time Themes
 Requires at least: 6.0
 Tested up to: 6.5.2
@@ -57,8 +57,8 @@ article3 - https://stocksnap.io/photo/mac-apple-6ICJXP5TZB
 
 == Copyright ==
 
-Danva WordPress Theme, Copyright 2024 
-Danva is distributed under the terms of the GNU GPL.
+Shreyans Theme, Copyright 2024 
+Shreyans is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
