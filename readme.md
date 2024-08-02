@@ -8,7 +8,7 @@ PASSCO is dedicated to revolutionizing government services through state-of-the-
 
 ## Website
 
-For more information about PASSCO and our services, visit our official website: [PASSCO IT Solutions](https://www.passcoexample.com) 
+For more information about PASSCO and our services, visit our official website: [PASSCO IT Solutions](https://www.passcoexample.com)
 
 ## Technologies Used
 
@@ -16,15 +16,15 @@ For more information about PASSCO and our services, visit our official website: 
 
 ## Features
 
-- **Dynamic Content**: Updates and maintains content using PHP.
-- **Client Portfolio**: Showcases our distinguished clients and the services provided.
-- **Contact Forms**: Functional contact forms for client inquiries.
-- **Responsive Design**: Designed to be mobile-friendly and accessible on all devices.
+- **Dynamic Content**: Managed and updated using PHP.
+- **Client Portfolio**: Displays our distinguished clients and the services we provide.
+- **Contact Forms**: Functional forms for client inquiries.
+- **Responsive Design**: Mobile-friendly and accessible on all devices.
 
 ## Installation
 
 To set up this project locally:
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/passco-website.git
