@@ -8,7 +8,7 @@ PASSCO is dedicated to revolutionizing government services through state-of-the-
 
 ## Website
 
-For more information about PASSCO and our services, visit our official website: [PASSCO IT Solutions](https://www.passcoexample.com)
+For more information about PASSCO and our services, visit our official website: [PASSCO IT Solutions](https://www.passco.tech)
 
 ## Technologies Used
 
